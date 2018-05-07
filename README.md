@@ -79,7 +79,7 @@ Note: When I say number I usually expect a float. When I'm expecting an integer 
     Try storing the 2 values into variables.
   </details>
 * <details>
-    <summary>Click to reveal hint #1</summary>
+    <summary>Click to reveal hint #2</summary>
     Remember that the average of 2 numbers is their sum divided by 2.
   </details>
 * [Answer](answers/exop/exop_3.py)
@@ -167,7 +167,7 @@ Note: When I say number I usually expect a float. When I'm expecting an integer 
     Remember that you can use a for loop to loop over structures returned by range(). For the format of a for loop, look at your past code.
   </details>
 * <details>
-    <summary>Click to reveal hint #1</summary>
+    <summary>Click to reveal hint #2</summary>
     Remember that the range function takes 3 parameters, start, stop, and step.
   </details>
 * <details>
