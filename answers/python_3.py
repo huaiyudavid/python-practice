@@ -1,0 +1,6 @@
+first = input('Input a value: ')
+second = input('Input another value: ')
+third = input('Input another value: ')
+print(third)
+print(second)
+print(first)
